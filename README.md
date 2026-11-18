@@ -1,5 +1,5 @@
-# Thumbs e logos dos cursos
+# Marca da área de membros
 
-Thumbs das aulas (Como Criar Criativos, Motion Graphics com o Claude e Piloto Automático), descrições para a área de membros e logos de cada curso.
+Banners, vídeos, certificados, thumbs das aulas com descrição e logos dos 7 produtos (Agency Machine, O Orquestrador, Talk Machine, Content Machine, Como Criar Criativos, Motion Graphics com o Claude e Piloto Automático).
 
 Site: https://augustofonteboa-maker.github.io/thumbs-logos-cursos/
