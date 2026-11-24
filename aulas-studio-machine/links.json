@@ -1,0 +1,34 @@
+{
+ "curso": "Studio Machine",
+ "pasta_panda": "Studio Machine - by augusto / 04 - Aulas Studio Machine",
+ "pasta_drive": "https://drive.google.com/drive/folders/1zRt0ru5SryBK255GtLHjiVO57PF46Jo0",
+ "aulas": [
+  {
+   "n": "01",
+   "t": "Boas-vindas ao Studio Machine",
+   "dur": "5:44",
+   "thumb": "aula-01-boas-vindas.jpg",
+   "panda_link": "https://player-vz-90225409-cfe.tv.pandavideo.com.br/embed/?v=7741635a-8bb0-40f9-826f-0a4fdfefceb7",
+   "drive_link": "https://drive.google.com/file/d/1KMWq5QsJoBBSjvzFydwgPGGTh_GVsKEL/view",
+   "embed": "<iframe id=\"panda-7741635a-8bb0-40f9-826f-0a4fdfefceb7\" src=\"https://player-vz-90225409-cfe.tv.pandavideo.com.br/embed/?v=7741635a-8bb0-40f9-826f-0a4fdfefceb7\" style=\"border:none;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture\" allowfullscreen=\"true\" width=\"720\" height=\"405\" fetchpriority=\"high\"></iframe>"
+  },
+  {
+   "n": "02",
+   "t": "Chamando o Agency Machine",
+   "dur": "13:44",
+   "thumb": "aula-02-chamando-o-agency-machine.jpg",
+   "panda_link": "https://player-vz-90225409-cfe.tv.pandavideo.com.br/embed/?v=c4f8fe15-082a-4461-8f2c-f7b0b0226a85",
+   "drive_link": "https://drive.google.com/file/d/1c1ybHCEJmidg7u01g6T1V3n1th1xZ83S/view",
+   "embed": "<iframe id=\"panda-c4f8fe15-082a-4461-8f2c-f7b0b0226a85\" src=\"https://player-vz-90225409-cfe.tv.pandavideo.com.br/embed/?v=c4f8fe15-082a-4461-8f2c-f7b0b0226a85\" style=\"border:none;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture\" allowfullscreen=\"true\" width=\"720\" height=\"405\" fetchpriority=\"high\"></iframe>"
+  },
+  {
+   "n": "03",
+   "t": "Turbinando a gosto",
+   "dur": "9:43",
+   "thumb": "aula-03-turbinando-a-gosto.jpg",
+   "panda_link": "https://player-vz-90225409-cfe.tv.pandavideo.com.br/embed/?v=9ce544a6-e5f1-4240-8017-4e2b7b3c2289",
+   "drive_link": "https://drive.google.com/file/d/1sgoZI0tmSGwaIE7IgIZM4lzzRJxp09tb/view",
+   "embed": "<iframe id=\"panda-9ce544a6-e5f1-4240-8017-4e2b7b3c2289\" src=\"https://player-vz-90225409-cfe.tv.pandavideo.com.br/embed/?v=9ce544a6-e5f1-4240-8017-4e2b7b3c2289\" style=\"border:none;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture\" allowfullscreen=\"true\" width=\"720\" height=\"405\" fetchpriority=\"high\"></iframe>"
+  }
+ ]
+}
